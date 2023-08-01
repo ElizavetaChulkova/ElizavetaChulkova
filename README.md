@@ -1,4 +1,4 @@
-<center>
+  
 ### Hi 👋 
 I'm Java developer from Moscow, Russia.
 
@@ -8,7 +8,6 @@ I'm Java developer from Moscow, Russia.
 - Spring : Boot, Data JPA, MVC, Security - Hibernate ORM
 - Databases : SQL, H2, PostgreSQL
 - Testing : JUnit, AssertJ - Documentation : Postman, Swagger
-</center>
 
 <!--
 **ElizavetaChulkova/ElizavetaChulkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
