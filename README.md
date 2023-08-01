@@ -3,13 +3,21 @@ I'm Java developer from Moscow, Russia.
 
 ### My Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+- Java 
+- Git
+- JDBC
+- Maven
+- Tomcat
+- Servlets
+- HTML
+- Spring (Boot, Data JPA, MVC, Security)
+- Hibernate ORM
+- Jackson
+- Lombok
+- REST
+- Databases : SQL, H2, PostgreSQL
+- Testing : JUnit, AssertJ
+- Documentation : Postman, Swagger
 
 <!--
 **ElizavetaChulkova/ElizavetaChulkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
