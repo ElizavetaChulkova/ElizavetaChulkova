@@ -3,11 +3,13 @@ I'm Java developer from Moscow, Russia.
 
 ### My Stack
 
-- Java - Git - JDBC - Maven - Tomcat - Servlets - HTML
-- Spring (Boot, Data JPA, MVC, Security) - Hibernate ORM - Jackson - Lombok - REST
+- Java - JDBC - Servlets
+- Git - Maven - Tomcat
+- Spring : Boot, Data JPA, MVC, Security - Hibernate ORM
 - Databases : SQL, H2, PostgreSQL
 - Testing : JUnit, AssertJ
 - Documentation : Postman, Swagger
+- REST
 
 <!--
 **ElizavetaChulkova/ElizavetaChulkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
